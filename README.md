@@ -7,11 +7,11 @@ d’Albignac Guillaume
 
 données de capture : humidité dans l’air
 
-http://devoircapture.ddns.net/humidite/bureau/jour
-http://devoircapture.ddns.net/humidite/bureau/mois
-http://devoircapture.ddns.net/humidite/bureau/annee
-http://devoircapture.ddns.net/humidite/mobile/apercu
-http://devoircapture.ddns.net/humidite/mobile/alerte
+http://devoircapture.ddns.net/humidite/bureau/jour <br>
+http://devoircapture.ddns.net/humidite/bureau/mois <br>
+http://devoircapture.ddns.net/humidite/bureau/annee <br>
+http://devoircapture.ddns.net/humidite/mobile/apercu <br>
+http://devoircapture.ddns.net/humidite/mobile/alerte <br>
 
 
 XML-JOUR	-------------------------------------------------
