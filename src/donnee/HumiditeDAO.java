@@ -34,11 +34,11 @@ public class HumiditeDAO {
 		//lecture
 		String URL_HUMIDITE = "";
 		switch (quelHumidite) {
-        case "jour":  URL_HUMIDITE = "http://devoircapture.ddns.net/humidite/bureau/jour";
+        case "jour":  URL_HUMIDITE = "file:///D:/Devoir%20capture/devoir-capture-2020-guillaume-esteban-simon/src/donnee/EchafaudXmlJour.xml";
                  break;
-        case "mois":  URL_HUMIDITE = "http://devoircapture.ddns.net/humidite/bureau/mois";
+        case "mois":  URL_HUMIDITE = "file:///D:/Devoir%20capture/devoir-capture-2020-guillaume-esteban-simon/src/donnee/EchafaudXmlMois.xml";
                  break;
-        case "annee":  URL_HUMIDITE = "http://devoircapture.ddns.net/humidite/bureau/annee";
+        case "annee":  URL_HUMIDITE = "file:///D:/Devoir%20capture/devoir-capture-2020-guillaume-esteban-simon/src/donnee/EchafaudXmlAnnee.xml";
 
     }
 		

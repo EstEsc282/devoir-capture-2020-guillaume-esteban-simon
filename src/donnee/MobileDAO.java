@@ -31,9 +31,9 @@ public class MobileDAO {
 		//lecture
 		String URL_MOBILE = "";
 		switch (quelMobile) {
-        case "alerte":  URL_MOBILE = "http://devoircapture.ddns.net/humidite/mobile/alerte";
+        case "alerte":  URL_MOBILE = "file:///D:/Devoir%20capture/devoir-capture-2020-guillaume-esteban-simon/src/donnee/EchafaudXmlAlerteMobile.xml";
                  break;
-        case "apercu":  URL_MOBILE = "http://devoircapture.ddns.net/humidite/mobile/apercu";
+        case "apercu":  URL_MOBILE = "file:///D:/Devoir%20capture/devoir-capture-2020-guillaume-esteban-simon/src/donnee/EchafaudXmlApercuMobile.xml";
 
 
     }
